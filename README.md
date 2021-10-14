@@ -29,6 +29,11 @@ It keeps the address where the result wants to be stored/
 ![earthmap](https://user-images.githubusercontent.com/80602623/137287682-32414bb3-ede8-4b89-9213-b9ccee23f7c9.jpg)
 
 
+#use --image for input-image and --output for output-image
+python DeepLearning48/Inference.py --input  DeepLearning48/input/earthmap.jpg 
+
+
+
 #test output image
 ![output](https://user-images.githubusercontent.com/80602623/137287857-7c7de2e7-5a53-4db4-8f40-e81fbfd43cad.jpg)
 
