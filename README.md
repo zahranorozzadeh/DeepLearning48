@@ -14,17 +14,20 @@ When we make the most of our network, it gives us a weight, then we with that we
 
 
 #args.input What is it used for?
-We give it a function and it is dynamic and anyone can give us any photo they want.
-
+We give it a function and it is dynamic and anyone can give us any photo they want./
+اونو می دیم به تابع و داینامیک شده و هر کسی می تونه هر عکسی که خواست رو به کدمون بده
 #--input  What is it used for?
-It keeps the address of the photo we want to give to our network
+It keeps the address of the photo we want to give to our network /
+آدرس اون عکسی که می خوایم به شبکه مون بدیم رو توی خودش نگه می داره
 
 #-- output  What is it used for?
-It keeps the address where the result wants to be stored
+It keeps the address where the result wants to be stored/
+آدرس جایی که نتیجه می خواد ذخیره بشه توی خودش نگه می داره
 
 
 #test input image
 ![earthmap](https://user-images.githubusercontent.com/80602623/137287682-32414bb3-ede8-4b89-9213-b9ccee23f7c9.jpg)
+
 
 #test output image
 ![output](https://user-images.githubusercontent.com/80602623/137287857-7c7de2e7-5a53-4db4-8f40-e81fbfd43cad.jpg)
