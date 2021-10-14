@@ -12,23 +12,22 @@ When we make the most of our network, it gives us a weight, then we with that we
 
 ![argparse](https://user-images.githubusercontent.com/80602623/137284250-efd61fab-e2c8-40a3-8c02-008d035958c2.jpg)
 
-
-<div dir="rtl">
 #args.input What is it used for?
 We give it a function and it is dynamic and anyone can give us any photo they want.
+<div dir="rtl">
 اونو می دیم به تابع و داینامیک شده و هر کسی می تونه هر عکسی که خواست رو به کدمون بده
 </div>
 
-<div dir="rtl">
+
 #--input  What is it used for?
 It keeps the address of the photo we want to give to our network 
+<div dir="rtl">
 آدرس اون عکسی که می خوایم به شبکه مون بدیم رو توی خودش نگه می داره
 </div>
 
-
-<div dir="rtl">
 #-- output  What is it used for?
 It keeps the address where the result wants to be stored
+<div dir="rtl">
 آدرس جایی که نتیجه می خواد ذخیره بشه توی خودش نگه می داره
 </div>
 
@@ -41,7 +40,6 @@ It keeps the address where the result wants to be stored
 
 
 
-<div dir="rtl">
 #use --image for input-image 
 python DeepLearning48/Inference.py --input  DeepLearning48/input/earthmap.jpg 
-</div>
+
