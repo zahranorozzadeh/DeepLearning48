@@ -35,6 +35,8 @@ It keeps the address where the result wants to be stored
 
 
 
+
+<div dir="rtl">
 #use --image for input-image 
 python DeepLearning48/Inference.py --input  DeepLearning48/input/earthmap.jpg 
-
+</div>
